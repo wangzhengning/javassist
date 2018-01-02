@@ -1,3 +1,5 @@
+#### 说明：本项目为forked的项目，用于学习Javassist源码。 
+
 Java bytecode engineering toolkit
 ### [Javassist version 3](http://www.javassist.org)
 
